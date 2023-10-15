@@ -19,6 +19,7 @@ j.bass[at]salford.ac.uk
 - 😄 Pronouns: ...
 he/him
 
+<!--
 - ⚡ Fun fact: ...
 One dark night camping in the Ethiopian countryside, I was surrounded by gunmen from the local militia, who had mistaken me for an invading Eritrean insurgent.
-
+-->

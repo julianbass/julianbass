@@ -4,7 +4,7 @@
 **julianbass/julianbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 Static analysis software tools to support technical debt detection
 
@@ -20,5 +20,5 @@ j.bass[at]salford.ac.uk
 he/him
 
 - ⚡ Fun fact: ...
+One dark night camping in the Ethiopian countryside, I was surrounded by gunmen from the local militia, who had mistaken me for an invading Eritrean insurgent.
 
--->

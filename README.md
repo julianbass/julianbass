@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
-Static analysis software tools to support technical debt detection
+automatic technical debt detection
 
 - 🌱 I’m currently learning ...
 How to walk abstract syntax tress to perform static analysis of Java source code files

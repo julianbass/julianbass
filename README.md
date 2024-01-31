@@ -23,3 +23,5 @@ he/him
 - ⚡ Fun fact: ...
 One dark night camping in the Ethiopian countryside, I was surrounded by gunmen from the local militia, who had mistaken me for an invading Eritrean insurgent.
 -->
+
+https://github.com/julianbass/rest-hello-demo/actions/workflows/red-ocelot-ci.yaml/badge.svg?event=push
